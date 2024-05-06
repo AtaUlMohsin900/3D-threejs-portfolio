@@ -44,8 +44,8 @@ const Navbar = () => {
         >
           <img src={logo} alt='logo' className='w-9 h-9 object-contain' />
           <p className='text-white text-[18px] font-bold cursor-pointer flex '>
-            Zaffer &nbsp;
-            <span className='sm:block hidden'> | Chief Financial Officer(CFO)</span>
+            Ataul Mohsin &nbsp;
+            <span className='sm:block hidden'> | DevOps Engineer</span>
           </p>
         </Link>
 
